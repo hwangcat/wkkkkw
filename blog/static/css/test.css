@@ -1,0 +1,21 @@
+p {
+  color: red;
+  border-style: double;
+  border-color: #123456;
+  margin: 50px;
+}
+
+.test {
+color:#F00;
+border-style:double;
+}
+
+#song {
+   color:#00F;
+   font-size: 40px;
+   padding:10px;
+}
+
+* {
+text-align: center;
+}
